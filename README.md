@@ -1,2 +1,2 @@
 ﻿# Alfred de Klerk
-Zomaar een test
+Zomaar een test, nu met GPG key...
