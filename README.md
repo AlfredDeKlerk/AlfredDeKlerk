@@ -1,4 +1,3 @@
-﻿# Alfred de Klerk
-Currently working as a consultant in the finance sector.
+# Alfred de Klerk
+Currently working as a software engineer in finance.
 
-## Started a new prosition
